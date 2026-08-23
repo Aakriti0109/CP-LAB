@@ -411,7 +411,7 @@ The goal of this repository is not just to complete lab assignments, but to buil
 
 ## 👨‍💻 Author
 
-**Ronit Raj**
+**Aakriti Singh**
 
 🎓 Computer Science Student
 💻 C | C++ | Java | Python
@@ -419,7 +419,7 @@ The goal of this repository is not just to complete lab assignments, but to buil
 
 ### 🔗 Connect With Me
 
-* GitHub: `https://github.com/Ronit049`
+* GitHub: `https://github.com/Aakriti0109`
 * LinkedIn: Add your LinkedIn profile
 * Portfolio: Add your portfolio link
 
