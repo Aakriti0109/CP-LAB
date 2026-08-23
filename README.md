@@ -420,7 +420,7 @@ The goal of this repository is not just to complete lab assignments, but to buil
 ### 🔗 Connect With Me
 
 * GitHub: `https://github.com/Aakriti0109`
-* LinkedIn: Add your LinkedIn profile
+* LinkedIn: https://www.linkedin.com/in/aakriti-singh01
 * Portfolio: Add your portfolio link
 
 ---
