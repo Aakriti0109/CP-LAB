@@ -421,7 +421,7 @@ The goal of this repository is not just to complete lab assignments, but to buil
 
 * GitHub: `https://github.com/Aakriti0109`
 * LinkedIn: https://www.linkedin.com/in/aakriti-singh01
-* Portfolio: Add your portfolio link
+* Portfolio: https://bit.ly/3RQTzn5
 
 ---
 
